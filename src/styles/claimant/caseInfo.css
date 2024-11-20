@@ -1,0 +1,9 @@
+.case-info {
+    border: 1px solid black;
+    padding: 0.5em;
+}
+
+.matter-number {
+    margin: 0;
+    border-bottom: 1px solid black;
+}

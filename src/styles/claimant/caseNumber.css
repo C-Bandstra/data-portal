@@ -1,0 +1,14 @@
+.case-num-container {
+  display: flex;
+  align-items: center;
+  padding: 1em 0em;
+}
+
+#case-num {
+  font-size: 24px;
+}
+
+.matter-number-prefix {
+  font-size: 24px;
+  margin: 0;
+}
